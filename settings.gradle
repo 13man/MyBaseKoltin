@@ -1,0 +1,3 @@
+rootProject.name='MyBaseKoltin'
+include ':app'
+include ':myjavaapp'
